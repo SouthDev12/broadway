@@ -3,10 +3,65 @@ body {
   text-align: center;
 }
 
+#top {
+  background-image: url("../images/background.png");
+  background-position: center;
+  background-size: 100% 100%;
+  color: white;
+}
 
+#top h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
 
+#top a {
+  font-size: 18px;
+  color: white;
+}
 
+#process h2 {
+  font-weight: bold;
+  font-size: 32px;
+}
+
+#process h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+#process p {
+  font-size: 14px;
+}
+
+#banner {
+  background-image: url("../images/background.png");
+  background-position: center;
+  background-size: 100% auto;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+#info h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+#info p {
+  font-size: 14px;
+}
 
 #footer {
   text-align: left;
+  background-color: dimgray;
+  color: white;
+}
+
+#footer a {
+  color: white;
+}
+
+#footer span {
+  font-size: 11px;
 }
